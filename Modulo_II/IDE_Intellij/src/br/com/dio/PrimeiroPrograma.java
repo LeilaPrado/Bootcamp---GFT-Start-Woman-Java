@@ -19,7 +19,7 @@ public class PrimeiroPrograma {
 
 }
 
-class Livro{
+class Livro {
     public Livro(String nome, Integer numPaginas) {
         this.nome = nome;
         this.numPaginas = numPaginas;
