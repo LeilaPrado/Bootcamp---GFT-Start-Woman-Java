@@ -60,7 +60,7 @@ public class Metodos {
         System.out.println("A menor nota é: "+Collections.min(notas));
 
         /*
-        Exiba a menor nota
+        Exiba a maior nota
          */
         System.out.println("A maior nota é: "+Collections.max(notas));
 
