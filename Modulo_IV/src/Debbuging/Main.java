@@ -1,3 +1,5 @@
+package Debbuging;
+
 public class Main {
 
     public static void main(String[] args) {
@@ -21,7 +23,7 @@ public class Main {
 
     static void c(){
         System.out.println("Entrou no método c.");
-        //Thread.dumpStack();
+//        Thread.dumpStack();
         System.out.println("Finalizou o método c.");
     }
 
