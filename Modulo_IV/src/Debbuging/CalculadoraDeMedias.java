@@ -1,3 +1,5 @@
+package Debbuging;
+
 import java.util.Scanner;
 
 public class CalculadoraDeMedias {
