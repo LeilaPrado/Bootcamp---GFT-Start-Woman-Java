@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3763f53d-7335-4b63-99cb-94a7e7415b51" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/getRequest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/postRequest.java" afterDir="false" />
-    </list>
+    <list default="true" id="3763f53d-7335-4b63-99cb-94a7e7415b51" name="Changes" comment="modulo V" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -38,6 +32,7 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File" value="JSON" />
   </component>
   <component name="RunManager" selected="Application.postRequest">
@@ -71,6 +66,28 @@
       <option name="presentableId" value="Default" />
       <updated>1651672751633</updated>
     </task>
+    <task id="LOCAL-00001" summary="Módulo V">
+      <created>1651680710792</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1651680710792</updated>
+    </task>
+    <task id="LOCAL-00002" summary="modulo V">
+      <created>1651681093175</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1651681093175</updated>
+    </task>
+    <task id="LOCAL-00003" summary="modulo V">
+      <created>1651681153898</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1651681153898</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -78,7 +95,19 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
@@ -86,5 +115,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Módulo V" />
+    <MESSAGE value="modulo V" />
+    <option name="LAST_COMMIT_MESSAGE" value="modulo V" />
   </component>
 </project>
